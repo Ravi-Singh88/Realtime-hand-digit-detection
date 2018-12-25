@@ -6,3 +6,5 @@ The data.zip file has the images on hand gestures. You can also create your own 
 Run the Residual Network.ipynb file to create resnet model. I had run this code on AWS t2.micro EC2 instance for 20 mins
 
 To predict run MacCam_resnet_predict.py and it will open your webcam
+
+Linkedin Video: https://www.linkedin.com/feed/update/urn:li:activity:6471969227736748032
