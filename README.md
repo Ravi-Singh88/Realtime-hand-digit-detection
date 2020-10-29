@@ -8,3 +8,4 @@ Run the Residual Network.ipynb file to create resnet model. I had run this code 
 To predict run MacCam_resnet_predict.py and it will open your webcam
 
 Linkedin Video: https://www.linkedin.com/feed/update/urn:li:activity:6471969227736748032
+My Linkedin Profile - https://www.linkedin.com/in/ravi-singh-b794192a/
